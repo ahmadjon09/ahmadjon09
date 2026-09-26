@@ -120,8 +120,3 @@ const ahmadjon = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:00D4FF&height=150&section=footer"/>
-
-<div align="center">
-<b>Building modern web apps with clean code, strong design, and real value. ✨</b>
-</div>
