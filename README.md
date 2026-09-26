@@ -52,6 +52,7 @@ const ahmadjon = {
 - REST API
 - MongoDB
 - PostgreSQL
+- Redis
 
 </td>
 <td valign="top" width="33%">
