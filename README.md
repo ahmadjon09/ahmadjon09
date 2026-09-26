@@ -88,13 +88,6 @@ const ahmadjon = {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:00D4FF&height=3&width=100%"/>
-
-##  My Vision
-
-<div align="center">
-
-> "Build products that are **visually attractive**, **easy to use**, **fast & scalable**, **meaningful for users**, and built with **modern technologies**."
-
 </div>
 </div>
 
