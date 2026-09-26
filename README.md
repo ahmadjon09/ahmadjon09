@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:8B5CF6&height=220&section=header&text=Ahmadjon%20Maxmudov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast%20%7C%20DevOps%20Learner&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%F0%9F%9A%80;UI%2FUX+Enthusiast+%F0%9F%8E%A8;DevOps+Learner+%E2%9A%99%EF%B8%8F;Building+modern+web+experiences+%F0%9F%92%BB;Always+shipping+something+new+%E2%9C%A8" alt="Typing SVG" />
-
 <br/>
 
 <img src="https://img.shields.io/badge/Full%20Stack-Developer-0ea5e9?style=for-the-badge&logo=codeforces&logoColor=white" />
@@ -29,7 +25,6 @@ const ahmadjon = {
     location: "Uzbekistan 🇺🇿",
     stack: ["Next.js", "React", "Express", "MongoDB", "PostgreSQL"],
     currentFocus: "Scalable web apps & clean architecture",
-    funFact: "I debug with console.log and I'm not ashamed 😄"
 };
 ```
 
@@ -101,14 +96,6 @@ const ahmadjon = {
 > "Build products that are **visually attractive**, **easy to use**, **fast & scalable**, **meaningful for users**, and built with **modern technologies**."
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:8B5CF6&height=3&width=100%"/>
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadjon09&theme=tokyonight&hide_border=true" width="600"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadjon09&theme=tokyo-night&hide_border=true" width="95%"/>
-
 </div>
 
 
