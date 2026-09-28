@@ -51,7 +51,7 @@ I love turning ideas into real products with strong UI/UX, modern architecture, 
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:00D4FF&height=3&width=100%"/>
+
 
 ##  Connect With Me
 
