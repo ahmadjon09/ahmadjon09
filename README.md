@@ -19,53 +19,11 @@ I'm **Ahmadjon Maxmudov**, a passionate **Full-Stack Developer** who enjoys buil
 
 I love turning ideas into real products with strong UI/UX, modern architecture, and smooth user experiences. My focus is on creating beautiful interfaces, powerful backends, and reliable deployment workflows.
 
-```typescript
-const ahmadjon = {
-    role: "Full-Stack Developer",
-    location: "Uzbekistan 🇺🇿",
-    stack: ["Next.js", "React", "Express", "MongoDB", "PostgreSQL"],
-    currentFocus: "Scalable web apps & clean architecture",
-};
-```
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:00D4FF&height=3&width=100%"/>
 
-##  What I Work With
 
-<table align="center">
-<tr>
-<td valign="top" width="33%">
-
-###  Frontend
-- Next.js
-- React
-- Vite
-- Redux
-- Context API
-- UI/UX Design
-
-</td>
-<td valign="top" width="33%">
-
-###  Backend
-- Express
-- REST API
-- MongoDB
-- PostgreSQL
-- Redis
-
-</td>
-<td valign="top" width="33%">
-
-###  DevOps / Infra
-- Cloudflare
-- Deployment & perf tuning
-- Scalable app setup
-- Production-ready workflows
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=nextjs,react,vite,nodejs,express,mongodb,postgres,redux,cloudflare,docker,figma,js,ts,html,css,git,github&perline=9" />
