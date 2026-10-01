@@ -11,7 +11,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:8B5CF6&height=3&width=100%"/>
 
 ##  About Me
 
@@ -21,7 +20,6 @@ I love turning ideas into real products with strong UI/UX, modern architecture, 
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:00D4FF&height=3&width=100%"/>
 
 
 
@@ -29,7 +27,6 @@ I love turning ideas into real products with strong UI/UX, modern architecture, 
 <img src="https://skillicons.dev/icons?i=nextjs,react,vite,nodejs,express,mongodb,postgres,redux,cloudflare,docker,figma,js,ts,html,css,git,github&perline=9" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:8B5CF6&height=3&width=100%"/>
 
 ##  My Strengths
 
@@ -46,7 +43,6 @@ I love turning ideas into real products with strong UI/UX, modern architecture, 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:00D4FF&height=3&width=100%"/>
 </div>
 </div>
 
