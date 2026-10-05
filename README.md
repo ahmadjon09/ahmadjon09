@@ -1,31 +1,10 @@
-<div align="center">
-
-<br/>
-
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-0ea5e9?style=for-the-badge&logo=codeforces&logoColor=white" />
-<img src="https://img.shields.io/badge/UI%2FUX-Designer-8b5cf6?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/DevOps-Enthusiast-22c55e?style=for-the-badge&logo=docker&logoColor=white" />
-
-<img src="https://komarev.com/ghpvc/?username=ahmadjon09&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/ahmadjon09?style=for-the-badge&color=8b5cf6&label=FOLLOWERS" />
-
-</div>
-
-
-##  About Me
-
+Hi!
 I'm **Ahmadjon Maxmudov**, a passionate **Full-Stack Developer** who enjoys building clean, fast, and scalable digital products.
 
 I love turning ideas into real products with strong UI/UX, modern architecture, and smooth user experiences. My focus is on creating beautiful interfaces, powerful backends, and reliable deployment workflows.
 
 
 
-
-
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,vite,nodejs,express,mongodb,postgres,redux,cloudflare,docker,figma,js,ts,html,css,git,github&perline=9" />
-</div>
 
 
 ##  My Strengths
@@ -52,13 +31,6 @@ I love turning ideas into real products with strong UI/UX, modern architecture, 
 ##  Connect With Me
 
 <div align="center">
-
-<a href="https://github.com/ahmadjon09">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<!-- <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> -->
 <a href="mailto:maxmudov8883@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
