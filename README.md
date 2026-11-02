@@ -19,7 +19,7 @@ I love turning ideas into real products with strong UI/UX, modern architecture, 
 ![](https://img.shields.io/badge/Performance%20Optimization-06B6D4?style=flat-square)
 ![](https://img.shields.io/badge/Clean%20Architecture-A855F7?style=flat-square)
 ![](https://img.shields.io/badge/Deployment%20%26%20DevOps-10B981?style=flat-square)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadjon09&show_icons=true&hide=contribs,prs,issues,commits)
+![Total Stars](https://img.shields.io/github/stars/ahmadjon09?style=for-the-badge&label=Total%20Stars)
 </div>
 
 </div>
