@@ -39,7 +39,7 @@ I love turning ideas into real products with strong UI/UX, modern architecture, 
 
 ---
 
-### 🧑‍💻 [Portfolio — me.xolt.uz](https://me.xolt.uz)
+### 🧑‍💻 [Portfolio](https://www.maxmudov-dev.uz)
 > My personal developer portfolio with projects, tech stack, and contact info.
 
 </div>
