@@ -25,7 +25,24 @@ I love turning ideas into real products with strong UI/UX, modern architecture, 
 </div>
 </div>
 
+## 🚀 My Projects
 
+<div align="center">
+
+### 🎮 [Vebox — Saveframe](https://vebox.uz)
+> Free online save file editor & hex viewer. Edit JSON, XML, INI and RPG Maker saves in your browser — files never leave your device.
+
+---
+
+### 🎵 [Auralis](https://auralis-client.maxmudov8883.workers.dev)
+> A music streaming client powered by SoundCloud's public catalog. Search tracks, queue them up, read synced lyrics — no account required, nothing to install.
+
+---
+
+### 🧑‍💻 [Portfolio — me.xolt.uz](https://me.xolt.uz)
+> My personal developer portfolio with projects, tech stack, and contact info.
+
+</div>
 
 
 ##  Connect With Me
